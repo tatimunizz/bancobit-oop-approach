@@ -11,4 +11,4 @@ conta1.depositar(100);
 conta1.sacar(12)
 conta1.transferir(10, conta2);
 
-console.log(ContaCorrente.numeroDeContas);
+console.log(conta1);
